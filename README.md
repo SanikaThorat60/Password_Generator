@@ -10,8 +10,8 @@ Users can customize the password length and choose whether to include uppercase 
 -Responsive and beginner-friendly layout
 -Pure front-end — no backend or frameworks needed
 
-🧠 Tech Stack
-HTML5
-CSS3
+🧠 Tech Stack :
+HTML5 ,
+CSS3 ,
 JavaScript (Vanilla)
 
